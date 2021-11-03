@@ -1,4 +1,5 @@
 """
+Hello!
 This script is universal for every of three database scripts. You just change code a little (is in comments) and the
 word database_... itself.
 """
